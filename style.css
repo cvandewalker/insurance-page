@@ -1,0 +1,52 @@
+header ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #fff;
+    right: 5px;
+    display: flex;
+    justify-content: center;
+}
+
+header li {
+
+}
+
+header li a {
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+header li a:hover {
+    background-color: gray;
+}
+
+.viewPlans {
+    border: 2px solid black;
+    padding: 5px;
+    margin-top: 8px;
+    
+}
+
+.section1 {
+    height: 330px;
+    background-color: blueviolet;
+    padding-top: 75px;
+    padding-left: 50px;
+    color: white;
+}
+
+.section1 h1 {
+    font-size: 50px;
+    width: 200px;
+}
+
+.section1 btn {
+    border: 2px solid white;
+    padding: 5px;
+    margin-top: 25px;
+}
